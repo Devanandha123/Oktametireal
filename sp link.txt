@@ -1,0 +1,17 @@
+https://sptest.iamshowcase.com/ixs?idp=66756d15e7e684d072c1814a3b6d8a3be464598c
+
+
+0oactv56ctm8MeVUV697
+VwYhGd_9kGlwXgrsAF3dSc6rb15QMYH62Yzh6ym7_rPkhmDEXbm4WhyF7Bt_rJmW
+
+https://trial-8163325-admin.okta.com/oauth2/default/v1/authorize
+
+https://sptest.iamshowcase.com/ixs?idp=25ae19569c6bdd6a06246a46e4cfd4ad4ddaf406
+
+
+https://sptest.iamshowcase.com/ixs?idp=b72e9989748f1364d74996d82a61b40d5870cedd
+
+
+
+ChatGPT
+OAuth 2.0 (Open Authorization 2.0) is an authorization framework that enables third-party applications to access resources on behalf of a user, without requiring the user's credentials to be shared with the third-party application. It's widely used for delegated authorization, allowing users to grant limited access to their resources stored on one site to another site or application.

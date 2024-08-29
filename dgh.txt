@@ -1,0 +1,9 @@
+user.city == "hyderabad" user.userType =="contractor"
+https://trial-8163325.okta.com/app/UserHome/login/signout
+
+
+https://sptest.iamshowcase.com/ixs?idp=e89f10fe8318e2dcd3e8d36ee64d245f848e0930
+id1182393010473069999089087
+
+
+https://sptest.iamshowcase.com/ixs?idp=3675ad4d40145f43e904de0c2c99c79ae263ebc7
